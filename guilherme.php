@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Guilherme Medeiros de Souza</h1>
-        <a href="jair.php">Guilherme</a>
+        
         
         <?php
         // put your code here
