@@ -7,11 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title> qualquer coisa lá </title>
     </head>
     <body>
-         <h1>Leonardo Sirio</h1>
-        <a href="index.html">Voltar</a>
+        <h1> Thalia </h1>
+        <h1> 03/06/1998 </h1>
+        <a href="index.html">voltar</a>
         <?php
         // put your code here
         ?>

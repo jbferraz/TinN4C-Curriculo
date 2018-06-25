@@ -10,8 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Leonardo Braun da Rosa</h1>
-        <p> <a href="index.html">Voltar</a>
+        <h1>dieucet</h1>
         <?php
         // put your code here
         ?>
