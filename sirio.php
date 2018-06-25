@@ -13,7 +13,7 @@ and open the template in the editor.
          <h1>Leonardo Sirio</h1>
         <a href="index.html">Voltar</a>
         <br>
-        <img src="imagens/Madara.gif"
+        <img src="imagens/Madara.gif.gif" alt="madara">
                 <?php
         // put your code here
         ?>
