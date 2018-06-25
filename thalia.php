@@ -10,6 +10,8 @@ and open the template in the editor.
         <title> qualquer coisa lá </title>
     </head>
     <body>
+        <h1> Thalia </h1>
+        <a href="index.html">voltar</a>
         <?php
         // put your code here
         ?>
