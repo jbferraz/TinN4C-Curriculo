@@ -10,8 +10,11 @@ and open the template in the editor.
         <title>Guilherme</title>
     </head>
     <body>
-        <h1>Guilherme Medeiros de Souza</h1>
+        <h1>Guilherme Medeiros de Souza</h1> <br>
+        esse ja deu aula pra nós!!
+        <img src="C:\Users\Aluno\Desktop\download (1).jpg"
         
+        <a href="index.html">voltar</a>
         
         <?php
         // put your code here

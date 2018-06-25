@@ -14,8 +14,7 @@ and open the template in the editor.
         <a href="index.html">Voltar</a>
         <br>
         <img src="imagens/Madara.gif"
-        
-        <?php
+                <?php
         // put your code here
         ?>
     </body>
