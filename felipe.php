@@ -10,10 +10,12 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1> Cachoeirinha > Gravataí </h1>
-    <p> <a href="index.html">03/11/1994</a>
+        <h1> pá pá pá 
+        03/11/1994 
+        </h1>
+    <p> <a href="index.html">Voltar</a>
         <?php
-        // put your code here
+        
         ?>
     </body>
 </html>
