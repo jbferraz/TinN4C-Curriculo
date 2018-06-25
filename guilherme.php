@@ -12,17 +12,26 @@ and open the template in the editor.
     <body>
         <h1>Guilherme Medeiros de Souza</h1> <br>
         esse ja deu aula pra nós!!
-<<<<<<< HEAD
-<<<<<<< HEAD
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Guilherme</title>
+    </head>
+    <body>
+        <h1>Guilherme Medeiros de Souza</h1> <br>
+        esse ja deu aula pra nós!!
+
         <img src="C:\Users\Aluno\Desktop\download (1).jpg"
-=======
         <img src="C:\Users\Aluno\Desktop\download (1).jpg"<br>
->>>>>>> origin/master
-=======
-        <img src="C:\Users\Aluno\Desktop\download (1).jpg"<br>
->>>>>>> origin/master
-        
-        <a href="index.html">voltar</a>
+        <img src="C:\Users\Aluno\Desktop\download (1).jpg"
+             <br>
+         <a href="index.html">voltar</a>
         
         <?php
         // put your code here
