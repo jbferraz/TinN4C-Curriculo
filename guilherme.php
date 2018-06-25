@@ -13,7 +13,11 @@ and open the template in the editor.
         <h1>Guilherme Medeiros de Souza</h1> <br>
         esse ja deu aula pra nós!!
 <<<<<<< HEAD
+<<<<<<< HEAD
         <img src="C:\Users\Aluno\Desktop\download (1).jpg"
+=======
+        <img src="C:\Users\Aluno\Desktop\download (1).jpg"<br>
+>>>>>>> origin/master
 =======
         <img src="C:\Users\Aluno\Desktop\download (1).jpg"<br>
 >>>>>>> origin/master
