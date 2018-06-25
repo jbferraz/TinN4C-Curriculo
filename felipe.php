@@ -10,9 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1> pá pá pá 
-        03/11/1994 
-        </h1>
+        <h1> pá pá pá    </h1>
+        <h1> 03/11/1994  </h1>
     <p> <a href="index.html">Voltar</a>
         <?php
         
