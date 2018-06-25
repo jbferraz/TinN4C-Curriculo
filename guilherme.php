@@ -12,7 +12,11 @@ and open the template in the editor.
     <body>
         <h1>Guilherme Medeiros de Souza</h1> <br>
         esse ja deu aula pra nós!!
+<<<<<<< HEAD
         <img src="C:\Users\Aluno\Desktop\download (1).jpg"
+=======
+        <img src="C:\Users\Aluno\Desktop\download (1).jpg"<br>
+>>>>>>> origin/master
         
         <a href="index.html">voltar</a>
         
