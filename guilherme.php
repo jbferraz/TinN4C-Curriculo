@@ -25,12 +25,11 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Guilherme Medeiros de Souza</h1> <br>
-        esse ja deu aula pra nós!!
-
-        <img src="C:\Users\Aluno\Desktop\download (1).jpg"
-        <img src="C:\Users\Aluno\Desktop\download (1).jpg"<br>
-        <img src="C:\Users\Aluno\Desktop\download (1).jpg"
-             <br>
+        <ul>
+            <li>disney</li>
+            <li>beto carreiro</li>
+            
+        </ul>
          <a href="index.html">voltar</a>
         
         <?php
