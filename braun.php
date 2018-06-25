@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Leonardo Braun da Rosa</h1>
-        <p> <a href="index.php">Voltar</a>
+        <p> <a href="index.html">Voltar</a>
         <?php
         // put your code here
         ?>
